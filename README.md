@@ -36,7 +36,7 @@ your-project-folder/
 
 ### 1️⃣ Clone the Repository
 
-- git clone https://github.com/hemanthmg20/fastapi-employee-api.git
+- git clone https://github.com/hemanthmg20/employee_managment_backend.git
 
 ### 2️⃣ Create a Virtual Environment
 
